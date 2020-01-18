@@ -17,7 +17,8 @@ Installera OS på det enklaste sättet
 1. AID: pi
 2. PWD: raspberry
 3. Öppna ett terminalfönster
-4. Uppdatera genom ´´´sudo apt-get update``` (uppdaterar lista över möjliga uppdateringar)
+4. Uppdatera genom ```sudo apt-get update``` (uppdaterar lista över möjliga uppdateringar)
 5. Genomför uppdateringar ```sudo apt-get upgrade```
 6. Genomför punkt 3-5 inför varje ny installation av tillägg på RPI
 
+Mer på ingång
