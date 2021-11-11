@@ -21,4 +21,10 @@ Installera OS på det enklaste sättet
 5. Genomför uppdateringar ```sudo apt-get upgrade```
 6. Genomför punkt 3-5 inför varje ny installation av tillägg på RPI
 
-Mer på ingång
+## Leta efter anslutna USB-enheter
+
+```ls -l /dev/cu.us*```
+
+## Använd bash som terminal till USB-port
+
+```sudo tail -f /dev/cu.usbserial-14520```
